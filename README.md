@@ -1,1 +1,1 @@
-# ViT_Paper_Implementation
+# ViT Paper Implementation
